@@ -10,7 +10,7 @@
 
 
 ## Description 
-This project consists of an interactive Tableau dashboard providing a detailed analysis of the University of California transfer data from 2018 to 2022. The dashboard uncovers significant demographic and statistical trends among transfer students, revealing insights into preferred majors, originating community colleges, and more, to understand the transfer student population better.
+This project consists of an interactive Tableau dashboard providing a detailed analysis of the University of California transfer data from 2018 to 2022. The dashboard uncovers significant demographic and statistical trends among transfer students, revealing insights into preferred majors, originating community colleges, and more.
 
 ## Data 
 The data used for this dashboard is sourced from the [University of California](https://www.universityofcalifornia.edu/), encompassing various aspects like ethnicity, majors, GPA, and geographical information related to transfer students. The datasets are stored in `.csv` format
