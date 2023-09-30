@@ -2,7 +2,7 @@
 
 **Author**: Kat L., University of California, Los Angeles (UCLA)
 
-> **Tools**: Tableau, PostgreSQL, Figma, dbdigram.io
+> **Tools**: Tableau, PostgreSQL, Figma, dbdiagram.io
 
 ![An Overview of the Dashboard](<img/UCLA Transfer Dashboard.png>)
 
