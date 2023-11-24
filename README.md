@@ -23,11 +23,11 @@ The data used for this dashboard is sourced from the [University of California](
 ├── dashboard              # contains the Tableau Workbook file for the dashboard
 │   └── UCLA Dashboard.twb 
 ├── data                   
-│   ├── 18_ucla_ccc_count.csv   # data specific to the year 2018
-│   ├── 19_ucla_ccc_count.csv   # data specific to the year 2019
-│   ├── 20_ucla_ccc_count.csv   # data specific to the year 2020
-│   ├── 21_ucla_ccc_count.csv   # data specific to the year 2021
-│   ├── 22_ucla_ccc_count.csv   # data specific to the year 2022
+│   ├── 18_ucla_ccc_count.csv   
+│   ├── 19_ucla_ccc_count.csv  
+│   ├── 20_ucla_ccc_count.csv   
+│   ├── 21_ucla_ccc_count.csv  
+│   ├── 22_ucla_ccc_count.csv   
 │   ├── college_geocodes.csv    # contains geographical coordinates of colleges
 │   ├── ucla_avg_combined.csv   # combined data including average GPAs
 │   ├── ucla_ccc_count.csv      # consolidated count data
